@@ -22,7 +22,8 @@ origins = [
     "https://localhost.tiangolo.com",
     "http://localhost",
     "http://localhost:8080",
-    "http://localhost:3000"
+    "http://localhost:3000",
+    "https://my-first-ai-project-ashen.vercel.app"
 ]
 
 app.add_middleware(
