@@ -1,0 +1,2190 @@
+Type: aquaparks
+Name: AulResort, база отдыха
+Rating: 3.3
+Description: No description available.
+
+Type: aquaparks
+Name: Miami Spa, SPA-центр
+Rating: 3.2
+Description: SPA для двоих, Обертывание, Стоунтерапия, Гидромассажная ванна, SPA-капсула, Кедровая бочка
+
+Type: aquaparks
+Name: Family Park, Парк аттракционов
+Rating: 3
+Description: No description available.
+
+Type: aquaparks
+Name: На Море, аквапарк
+Rating: 3
+Description: No description available.
+
+Type: aquaparks
+Name: Восьмое чудо света, аквапарк
+Rating: 2.9
+Description: No description available.
+
+Type: aquaparks
+Name: Hawaii, аквапарк
+Rating: 3.2
+Description: No description available.
+
+Type: aquaparks
+Name: Дос, база отдыха
+Rating: 2.7
+Description: No description available.
+
+Type: aquaparks
+Name: Мереке, аквапарк
+Rating: 2.6
+Description: No description available.
+
+Type: aquaparks
+Name: Капчагайский аквапарк
+Rating: 2.5
+Description: No description available.
+
+Type: attractions
+Name: Hobby Town, магазин настольных игр и подарков
+Rating: 5
+Description: No description available.
+
+Type: attractions
+Name: Antistress Space, антистресс-пространство
+Rating: 4.9
+Description: No description available.
+
+Type: attractions
+Name: Alem Kids, детский развлекательный центр
+Rating: 4.6
+Description: Батуты
+
+Type: attractions
+Name: Avatariya, детский развлекательный центр
+Rating: 4
+Description: No description available.
+
+Type: attractions
+Name: Легород, сеть детских центров
+Rating: 4.1
+Description: No description available.
+
+Type: attractions
+Name: Igrapolis, детский развлекательный центр
+Rating: 5
+Description: No description available.
+
+Type: attractions
+Name: HappyLand, детский развлекательный центр
+Rating: 4.9
+Description: No description available.
+
+Type: attractions
+Name: Круши комната, антистресс-пространство
+Rating: 5
+Description: No description available.
+
+Type: attractions
+Name: Race Place Simracing club, клуб симрейсинга
+Rating: 4.5
+Description: No description available.
+
+Type: attractions
+Name: Avatariya, детский развлекательный центр
+Rating: 4
+Description: No description available.
+
+Type: attractions
+Name: Emoji, развлекательный центр
+Rating: 4.5
+Description: No description available.
+
+Type: attractions
+Name: Городок Паровозиков, игровая комната
+Rating: 4.7
+Description: No description available.
+
+Type: attractions
+Name: Antistress Space, антистресс-пространство
+Rating: 4.9
+Description: No description available.
+
+Type: attractions
+Name: DAMUKIDS, Детский развлекательный центр
+Rating: 4.5
+Description: No description available.
+
+Type: attractions
+Name: Diamondland, детский игровой зал
+Rating: 4.5
+Description: No description available.
+
+Type: attractions
+Name: Nasledniki, центр семейного отдыха
+Rating: 3.8
+Description: Батуты
+
+Type: attractions
+Name: Next, семейный центр
+Rating: 4
+Description: No description available.
+
+Type: attractions
+Name: TeikaBoom, детский развлекательный центр
+Rating: 4
+Description: No description available.
+
+Type: attractions
+Name: Kids Party, детская игровая комната
+Rating: 4.6
+Description: No description available.
+
+Type: attractions
+Name: Aspan Park, детский развлекательный центр
+Rating: 3.9
+Description: No description available.
+
+Type: attractions
+Name: Bambino, центр организации детских праздников и квестов
+Rating: 4.2
+Description: No description available.
+
+Type: attractions
+Name: Центральный Парк Отдыха г. Алматы
+Rating: 3.8
+Description: Детские площадки, Батуты, Колесо обозрения
+
+Type: attractions
+Name: Bambino, центр организации детских праздников и квестов
+Rating: 4.2
+Description: No description available.
+
+Type: attractions
+Name: Легород, сеть детских центров
+Rating: 4.1
+Description: No description available.
+
+Type: attractions
+Name: Kids Club, игровой зал
+Rating: 3.9
+Description: No description available.
+
+Type: attractions
+Name: Nasledniki, центр семейного отдыха
+Rating: 3.8
+Description: No description available.
+
+Type: attractions
+Name: Avatariya, детский развлекательный центр
+Rating: 4
+Description: No description available.
+
+Type: attractions
+Name: Nasledniki, центр семейного отдыха
+Rating: 3.8
+Description: No description available.
+
+Type: attractions
+Name: Rift Vr Park, парк виртуальной реальности
+Rating: 4
+Description: No description available.
+
+Type: attractions
+Name: Красный бык, аттракцион
+Rating: 5
+Description: No description available.
+
+Type: attractions
+Name: BabyPolis, детский парк
+Rating: 3.6
+Description: No description available.
+
+Type: attractions
+Name: Kids Park Almaty
+Rating: 4.1
+Description: No description available.
+
+Type: attractions
+Name: Kids top model, игровая для девочек
+Rating: 4.4
+Description: No description available.
+
+Type: bakeries
+Name: Gruzin Nany, пекарня
+Rating: 5
+Description: No description available.
+
+Type: bakeries
+Name: Aizada.bakery, социальный кондитерский магазин
+Rating: 4.9
+Description: Доставка
+
+Type: bakeries
+Name: Do.Star Coffee, кофейня
+Rating: 4.8
+Description: Кофе с собой
+
+Type: bakeries
+Name: Настоящая пекарня
+Rating: 4.8
+Description: Кофе с собой, Доставка
+
+Type: bakeries
+Name: QazaqPie, служба доставки пирогов
+Rating: 4.8
+Description: Кофе с собой, Доставка
+
+Type: bakeries
+Name: Пекатория, пекарня-кофейня
+Rating: 4.6
+Description: Кофе с собой
+
+Type: bakeries
+Name: Хлеб и Пирог, пекарня
+Rating: 4.6
+Description: No description available.
+
+Type: bakeries
+Name: Zavtrak i obed, кафе
+Rating: 4.1
+Description: No description available.
+
+Type: bakeries
+Name: Крошкина, пекарня
+Rating: 4.6
+Description: Кофе с собой
+
+Type: bakeries
+Name: Хлебный Дворик, пекарня-кондитерская
+Rating: 5
+Description: No description available.
+
+Type: bakeries
+Name: Tuba, кафе
+Rating: 4.5
+Description: Кофе с собой, Доставка
+
+Type: bakeries
+Name: Хлебная крошка, пекарня
+Rating: 4.7
+Description: Кофе с собой
+
+Type: bakeries
+Name: СинМин, пекарня-кондитерская
+Rating: 4.7
+Description: Доставка
+
+Type: bakeries
+Name: CakeVille, кондитерская
+Rating: 4.8
+Description: Доставка
+
+Type: bakeries
+Name: La Famiglia Gagarina, Итальянская пекарня
+Rating: 5
+Description: Кофе с собой, Доставка
+
+Type: bakeries
+Name: Savor-библиотека вкуса, кулинария
+Rating: 4.5
+Description: No description available.
+
+Type: bakeries
+Name: Danel cake & pie, кондитерская
+Rating: 4.7
+Description: Доставка
+
+Type: bakeries
+Name: Хлеб и Пирог, пекарня
+Rating: 4.6
+Description: No description available.
+
+Type: bakeries
+Name: Bidai Bakery, пекарня
+Rating: 4.5
+Description: Кофе с собой
+
+Type: bakeries
+Name: Любимая пекарня
+Rating: 3.8
+Description: No description available.
+
+Type: bakeries
+Name: Любимая, пекарня
+Rating: 4.6
+Description: Кофе с собой, Доставка
+
+Type: bakeries
+Name: Пироговая Chef, пекарня-кондитерская
+Rating: 4.5
+Description: No description available.
+
+Type: bakeries
+Name: Damdi-tatti, компания по доставке домашних полуфабрикатов
+Rating: 4.8
+Description: Доставка
+
+Type: bakeries
+Name: La Famiglia, итальянская пекарня
+Rating: 4.7
+Description: Кофе с собой, Доставка
+
+Type: bakeries
+Name: La Croûte, пекарня
+Rating: 4.3
+Description: Кофе с собой
+
+Type: bakeries
+Name: Healpies
+Rating: 4.3
+Description: Кофе с собой, Доставка
+
+Type: bakeries
+Name: Mama`s bakery, кондитерская
+Rating: 4.5
+Description: Кофе с собой
+
+Type: bakeries
+Name: Блины да пироги, кафе-пекарня
+Rating: 4
+Description: Кофе с собой, Доставка
+
+Type: bakeries
+Name: Здесь и Сейчас, кофейня
+Rating: 4.3
+Description: Кофе с собой, Доставка
+
+Type: bakeries
+Name: Vero, итальянский ресторан
+Rating: 4.3
+Description: No description available.
+
+Type: bakeries
+Name: Киш Лорен, пекарня
+Rating: 4.2
+Description: Доставка
+
+Type: bakeries
+Name: Di_home_bakery, пекарня-кондитерская
+Rating: 5
+Description: Кофе с собой, Доставка
+
+Type: bakeries
+Name: Авторская пекарня Маржан Отеген
+Rating: 3.7
+
+Type: bowling
+Name: Крапива, боулинг-бар
+Rating: 4.5
+Description: No description available.
+
+Type: bowling
+Name: Madison, караоке-боулинг клуб
+Rating: 4.5
+Description: No description available.
+
+Type: bowling
+Name: BarBQ bowling & grill, боулинг-гриль бар
+Rating: 3.6
+Description: No description available.
+
+Type: bowling
+Name: Bastau, развлекательный центр
+Rating: 3.1
+Description: No description available.
+
+Type: bowling
+Name: Метро, развлекательный центр
+Rating: 2.3
+Description: No description available.
+
+Type: bowling
+Name: Family Bowling, боулинг-центр
+Rating: 2
+Description: No description available.
+
+Type: bowling
+Name: Иллюзион, боулинг
+Rating: 1.9
+Description: No description available.
+
+Type: cinema
+Name: Kinoroom Euphoria, кинозал
+Rating: 5
+Description: No description available.
+
+Type: cinema
+Name: Gotham Kinoroom, кинотеатр
+Rating: 4.8
+Description: No description available.
+
+Type: cinema
+Name: Gotham Kinoroom, кинотеатр
+Rating: 4.8
+Description: No description available.
+
+Type: cinema
+Name: Gotham Kinoroom, кинотеатр
+Rating: 4.8
+Description: No description available.
+
+Type: cinema
+Name: Gotham Kinoroom, кинотеатр
+Rating: 4.8
+Description: No description available.
+
+Type: cinema
+Name: Gotham Kinoroom, кинотеатр
+Rating: 4.8
+Description: No description available.
+
+Type: cinema
+Name: XO KinoRoom, кинозал
+Rating: 4.8
+Description: No description available.
+
+Type: cinema
+Name: Aspan cinema, автокинотеатр
+Rating: 4.8
+Description: No description available.
+
+Type: cinema
+Name: VIP Cinema, кинотеатр
+Rating: 4.4
+Description: No description available.
+
+Type: cinema
+Name: Zillion, кинозал
+Rating: 4.1
+Description: No description available.
+
+Type: cinema
+Name: XO KinoRoom, кинозал
+Rating: 4.8
+Description: No description available.
+
+Type: cinema
+Name: Horror cinema, кинотеатр
+Rating: 3.8
+Description: No description available.
+
+Type: cinema
+Name: Kinoforum 10, кинотеатр
+Rating: 3.6
+Description: No description available.
+
+Type: cinema
+Name: Lumiera Cinema, кинотеатр
+Rating: 3.4
+Description: No description available.
+
+Type: cinema
+Name: Kinoplexx, Kinoplexx 6 Almaty Mall
+Rating: 2.6
+Description: No description available.
+
+Type: cinema
+Name: Qooma Kinoroom, кинотеатр
+Rating: 3.6
+Description: No description available.
+
+Type: cinema
+Name: Kinoroom, кинотеатр
+Rating: 3.2
+Description: No description available.
+
+Type: cinema
+Name: Cinemax Dostyk Multiplex, кинотеатр
+Rating: 3.1
+Description: No description available.
+
+Type: cinema
+Name: Dark cinema, кинозал
+Rating: 3.2
+Description: No description available.
+
+Type: cinema
+Name: Арман, кинотеатр
+Rating: 3
+Description: No description available.
+
+Type: cinema
+Name: Violet Rooms, кинотеатр
+Rating: 3.2
+Description: No description available.
+
+Type: cinema
+Name: kino_room.gres, кинотеатр
+Rating: 4
+Description: No description available.
+
+Type: cinema
+Name: Kinopark 11 Imax Esentai, кинотеатр
+Rating: 2.6
+Description: No description available.
+
+Type: cinema
+Name: Kinopark, Kinopark 5 Atakent
+Rating: 2.6
+Description: No description available.
+
+Type: cinema
+Name: Kinopark 11 Imax Esentai, кинотеатр
+Rating: 2.6
+Description: No description available.
+
+Type: cinema
+Name: Kinoplexx, Kinoplexx Sary-Arka
+Rating: 2.6
+Description: No description available.
+
+Type: cinema
+Name: Chaplin Cinemas, сеть кинотеатров
+Rating: 2.2
+Description: No description available.
+
+Type: cinema
+Name: Kinopark 4 Globus, кинотеатр
+Rating: 2.6
+Description: No description available.
+
+Type: cinema
+Name: Kinopark 8 Moskva, кинотеатр
+Rating: 2.6
+Description: No description available.
+
+Type: cinema
+Name: Kinopark 5 Premium, кинотеатр
+Rating: 2.6
+Description: No description available.
+
+Type: cinema
+Name: Chaplin Cinemas, сеть кинотеатров
+Rating: 2.2
+Description: No description available.
+
+Type: cinema
+Name: Арман 3D Mart, кинотеатр
+Rating: 2.1
+Description: No description available.
+
+Type: cinema
+Name: Арман 3D Asia Park, кинотеатр
+Rating: 2.1
+Description: No description available.
+
+Type: cinema
+Name: Kinopark 6 Sputnik, кинотеатр
+Rating: 2.6
+Description: No description available.
+
+Type: cinema
+Name: Иллюзион, кинотеатр
+Rating: 1.8
+Description: No description available.
+
+Type: cinema
+Name: Chaplin Cinemas, сеть кинотеатров
+Rating: 2.2
+Description: No description available.
+
+Type: cinema
+Name: Kinoplexx, Kinoplexx 7 Aport
+Rating: 2.6
+Description: No description available.
+
+Type: cinema
+Name: Open Cinema Almaty, кинотеатр
+Rating: 1.8
+Description: No description available.
+
+Type: cinema
+Name: Кинотеатр, Аттракцион
+Rating: No raing availabe
+Description: No description available.
+
+Type: coffeeshops
+Name: Sekirov, кофейня
+Rating: 4.9
+Description: Средний чек 800 тнг., Кофе с собой, Глинтвейн, Чай с собой, Горячий шоколад, Какао
+
+Type: coffeeshops
+Name: Arabica, кофейня
+Rating: 5
+Description: Средний чек 2000 тнг., Кофе с собой, Чай с собой, Горячий шоколад, Какао
+
+Type: coffeeshops
+Name: Silk way Coffee
+Rating: 4.9
+Description: Лучшая кофейня 2022, Средний чек 800 тнг., Сэндвичи, Молочные коктейли
+
+Type: coffeeshops
+Name: Urbo coffee, экспресс-кофейня
+Rating: 3.9
+Description: Средний чек 1190 тнг., Завтрак, Кофе с собой, Молочные коктейли
+
+Type: coffeeshops
+Name: Buravati Coffee, кофейня
+Rating: 4.9
+Description: Средний чек 1200 тнг., Бургеры, Пироги, Пончики, Пирожки, Сэндвичи, Бутерброды, Кофе с собой, Молочные коктейли, Свежевыжатые соки
+
+Type: coffeeshops
+Name: Tuba, кофейня
+Rating: 4.8
+Description: Средний чек 1500 тнг., Можно с ноутбуком, Пышки, Сэндвичи, Бутерброды, Кофе с собой, Чай с собой
+
+Type: coffeeshops
+Name: Paco coffee & pastry, кофейня
+Rating: 4.8
+Description: Средний чек 2000 тнг., Завтрак, Можно с ноутбуком, Бельгийские вафли, Сэндвичи, Бутерброды, Кофе с собой, Доставка
+
+Type: coffeeshops
+Name: What Flat, кофейня
+Rating: 5
+Description: Средний чек 1200 тнг., Кофе с собой, Доставка
+
+Type: coffeeshops
+Name: Papa Coffee, кофейня
+Rating: 4.9
+Description: Кофе с собой, Чай с собой, Свежевыжатые соки, Горячий шоколад, Какао
+
+Type: coffeeshops
+Name: Uno Coffee, кофейня
+Rating: 4.9
+Description: Лучшая кофейня 2022, Средний чек 850 тнг., Можно с ноутбуком, Бургеры, Пироги, Пончики, Салаты, Сэндвичи, Бутерброды, Кофе с собой, Чай с собой, Смузи, Молочные коктейли, Свежевыжатые соки, Горячий шоколад, Какао
+
+Type: coffeeshops
+Name: Simple Coffee, кофейня
+Rating: 5
+Description: Средний чек 1200 тнг., Завтрак, Можно с ноутбуком, Пицца, Пироги, Пышки, Сэндвичи, Бутерброды, Кофе с собой, Чай с собой, Смузи, Молочные коктейли, Горячий шоколад, Какао, Доставка
+
+Type: coffeeshops
+Name: Tuba, кофейня
+Rating: 4.8
+Description: No description available.
+
+Type: coffeeshops
+Name: Барсук-кофе, кофейня
+Rating: 4.8
+Description: Средний чек 1600 тнг., Суши, Пицца, Наггетсы, Кофе с собой
+
+Type: coffeeshops
+Name: Petit chocolate & coffee, кофейня-кондитерская
+Rating: 5
+Description: Средний чек 1500 тнг., Кофе с собой, Доставка
+
+Type: coffeeshops
+Name: Coffeetор, кофейня
+Rating: 4.6
+Description: Средний чек 1200 тнг., Можно с ноутбуком, Пончики, Блины, Сэндвичи, Кофе с собой, Чай с собой, Доставка
+
+Type: coffeeshops
+Name: Sekirov, кофейня
+Rating: 4.9
+Description: Средний чек 1100 тнг., Кофе с собой, Чай с собой, Молочные коктейли, Горячий шоколад, Какао
+
+Type: coffeeshops
+Name: Sinichki.store, магазин уникальных аксессуаров и подарков
+Rating: 4.8
+Description: Средний чек 1500 тнг., Поке, Сэндвичи, Боулы, Кофе с собой, Чай с собой, Какао
+
+Type: coffeeshops
+Name: Aura02 coffee, кофейня
+Rating: 4.8
+Description: Средний чек 1500 тнг., Пончики, Сэндвичи, Кофе с собой, Чай с собой, Горячий шоколад, Какао, Доставка
+
+Type: coffeeshops
+Name: MaCoffeeStore, кофейня
+Rating: 5
+Description: Средний чек 1500 тнг., Кофе с собой
+
+Type: coffeeshops
+Name: Petit chocolate & coffee, кофейня-кондитерская
+Rating: 5
+Description: No description available.
+
+Type: coffeeshops
+Name: Cappuccino Club, кофейня
+Rating: 4.8
+Description: Средний чек 2000 тнг., Завтрак, Сэндвичи, Бутерброды, Кофе с собой
+
+Type: coffeeshops
+Name: Baristacoffee, кофейня
+Rating: 4.2
+Description: Средний чек 1000 тнг., Кофе с собой, Молочные коктейли
+
+Type: coffeeshops
+Name: Piu Caffe, кофейня
+Rating: 4.8
+Description: Средний чек 2000 тнг., Завтрак, Можно с ноутбуком, Кофе с собой, Чай с собой, Смузи
+
+Type: coffeeshops
+Name: Do.Star Coffee, кофейня
+Rating: 4.8
+Description: Средний чек 2000 тнг., Сэндвичи, Кофе с собой, Чай с собой, Горячий шоколад, Какао
+
+Type: coffeeshops
+Name: Zerna Coffee, кофейня
+Rating: 4.7
+Description: Средний чек 1500 тнг., Можно с ноутбуком, Сэндвичи, Кофе с собой, Чай с собой, Молочные коктейли, Доставка
+
+Type: coffeeshops
+Name: Coffee Team, кофейня
+Rating: 5
+Description: Средний чек 1500 тнг., Можно с ноутбуком, Пицца, Бургеры, Пончики, Сэндвичи, Кофе с собой
+
+Type: coffeeshops
+Name: Пейздесь, кофейня
+Rating: 5
+Description: Средний чек 1000 тнг., Кофе с собой, Чай с собой, Смузи, Молочные коктейли
+
+Type: coffeeshops
+Name: Tuba, кофейня
+Rating: 4.8
+Description: Кофе с собой, Чай с собой
+
+Type: coffeeshops
+Name: Time 2 Break, кафе-кондитерская
+Rating: 4.9
+Description: Средний чек 1000 тнг., Завтрак, Пончики, Гонконгские вафли, Бельгийские вафли, Сэндвичи, Блюда на гриле, Бутерброды, Кофе с собой, Чай с собой, Молочные коктейли, Свежевыжатые соки, Горячий шоколад, Какао, Доставка
+
+Type: coffeeshops
+Name: Coffee есть pizza pasta & more
+Rating: 4.9
+Description: Пицца, Салаты, Сэндвичи, Кофе с собой, Глинтвейн, Свежевыжатые соки, Горячий шоколад, Какао
+
+Type: coffeeshops
+Name: Pinkcake
+Rating: 4.7
+Description: Средний чек 2000 тнг., Пироги, Пончики, Блины, Пышки, Бельгийские вафли, Кофе с собой, Глинтвейн, Чай с собой, Горячий шоколад, Какао
+
+Type: coffeeshops
+Name: Teniz coffee
+Rating: 5
+Description: Средний чек 1500 тнг., Пироги, Блины, Поке, Салаты, Сэндвичи, Боулы, Кофе с собой, Чай с собой, Горячий шоколад, Какао
+
+Type: coffeeshops
+Name: XT31 Coffee, кафе
+Rating: 4.8
+Description: Средний чек 2100 тнг., Завтрак, Бургеры, Пончики, Блины, Стейки, Бельгийские вафли, Сэндвичи, Супы, Блюда на гриле, Наггетсы, Кофе с собой, Чай с собой, Горячий шоколад, Какао, Доставка
+
+Type: coffeeshops
+Name: Master Coffee, кофейня
+Rating: 4.8
+Description: Средний чек 2000 тнг., Можно с ноутбуком, Пончики, Бельгийские вафли, Кофе с собой, Чай с собой, Смузи, Молочные коктейли, Свежевыжатые соки, Горячий шоколад
+
+Type: coffeeshops
+Name: Zebra Coffee, кофейня
+Rating: 4.7
+Description: Кофе с собой, Чай с собой
+
+Type: coffeeshops
+Name: Anteiku, кофейня
+Rating: 4.8
+Description: Средний чек 1700 тнг., Можно с ноутбуком, Пироги, Пончики, Бельгийские вафли, Сэндвичи, Боулы, Кофе с собой, Чай с собой, Смузи, Молочные коктейли, Горячий шоколад, Какао
+
+Type: coffeeshops
+Name: Q Coffee Shop, кофейни
+Rating: 4.3
+Description: Средний чек 1500 тнг., Завтрак, Можно с ноутбуком, Пончики, Кофе с собой
+
+Type: coffeeshops
+Name: Zebra Coffee, кофейня
+Rating: 4.7
+Description: Средний чек 1100 тнг., Кофе с собой
+
+Type: coffeeshops
+Name: Sanim Coffee, кофейня
+Rating: 4.8
+Description: Средний чек 3000 тнг., Завтрак, Пицца, Лапша wok, Фо-бо, Бельгийские вафли, Салаты, Сэндвичи, Супы, Боулы, Кукси, Кофе с собой, Чай с собой, Смузи, Молочные коктейли, Свежевыжатые соки, Горячий шоколад, Какао, Доставка
+
+Type: coffeeshops
+Name: Degusto, кофейня
+Rating: 4.7
+Description: Средний чек 1200 тнг., Завтрак, Можно с ноутбуком, Кофе с собой, Молочные коктейли
+
+Type: coffeeshops
+Name: Probarista, кофейня
+Rating: 4.7
+Description: Средний чек 1000 тнг., Кофе с собой, Доставка
+
+Type: coffeeshops
+Name: Bliss-Blossoms healthy bar, кофейня
+Rating: 5
+Description: Средний чек 2000 тнг., Бельгийские вафли, Сэндвичи, Кофе с собой
+
+Type: coffeeshops
+Name: READ AND COFFEE, кофейня
+Rating: 4.9
+Description: Средний чек 1500 тнг., Завтрак, Пироги, Пончики, Поке, Салаты, Сэндвичи, Бутерброды, Боулы, Кофе с собой, Чай с собой, Молочные коктейли, Горячий шоколад, Доставка
+
+Type: coffeeshops
+Name: Coffeeday, кофейня
+Rating: 4.3
+Description: No description available.
+
+Type: coffeeshops
+Name: Старая Италия, кофейня
+Rating: 4.7
+Description: Лучшая кофейня 2022, Средний чек 1500 тнг., Завтрак, Пончики, Пирожки, Пельмени, Салаты, Сэндвичи, Вареники, Супы, Наггетсы, Бутерброды, Кукси, Кофе с собой, Чай с собой, Горячий шоколад, Какао, Доставка
+
+Type: coffeeshops
+Name: Quelle coffee, кофейня-галерея
+Rating: 4.7
+Description: Средний чек 3000 тнг., Завтрак, Можно с ноутбуком, Кофе с собой, Чай с собой, Молочные коктейли, Свежевыжатые соки, Горячий шоколад, Какао, Доставка
+
+Type: coffeeshops
+Name: Qulpynai bakery, сеть пекарен-кондитерских
+Rating: 4.1
+Description: Средний чек 800 тнг., Кофе с собой
+
+Type: coffeeshops
+Name: Holder coffee, кофейня
+Rating: 4.7
+Description: Средний чек 1500 тнг., Завтрак, Сэндвичи, Бутерброды, Кофе с собой, Чай с собой, Смузи, Молочные коктейли, Горячий шоколад, Какао
+
+Type: coffeeshops
+Name: Пекатория, пекарня-кофейня
+Rating: 4.6
+Description: Средний чек 2000 тнг., Завтрак, Пироги, Пончики, Блины, Пирожки, Сэндвичи, Бутерброды, Кофе с собой
+
+Type: coffeeshops
+Name: Modernista, кофейня
+Rating: 4.8
+Description: Средний чек 1000 тнг., Завтрак, Пончики, Блины, Сэндвичи, Бутерброды, Кофе с собой, Глинтвейн, Доставка
+
+Type: golf
+Name: Sportkit.kz, магазин спортивных товаров и одежды
+Rating: 4.9
+Description: No description available.
+
+Type: golf
+Name: Galaxservice, сервисный центр
+Rating: 4.9
+Description: No description available.
+
+Type: golf
+Name: Onepoint, интернет-магазин
+Rating: 5
+Description: No description available.
+
+Type: golf
+Name: LotStore, магазин цифровой техники
+Rating: 4.9
+Description: No description available.
+
+Type: golf
+Name: Южный крест, пейнтбол-лазертаг клуб
+Rating: 4.7
+Description: No description available.
+
+Type: golf
+Name: Iron Head, торговая компания
+Rating: 5
+Description: No description available.
+
+Type: golf
+Name: Xiaomi-store.kz, интернет-магазин
+Rating: 4.6
+Description: No description available.
+
+Type: golf
+Name: Большая Игра, торговая компания
+Rating: 4.7
+Description: No description available.
+
+Type: golf
+Name: Intersport.kz, магазин спортивных товаров
+Rating: 4.5
+Description: No description available.
+
+Type: golf
+Name: Volta, магазин электротранспорта
+Rating: 4.6
+Description: No description available.
+
+Type: golf
+Name: Volta, магазин электротранспорта
+Rating: 4.6
+Description: No description available.
+
+Type: golf
+Name: Riva.kz, интернет-магазин по продаже электроники
+Rating: 5
+Description: No description available.
+
+Type: golf
+Name: SUNBABY, магазин
+Rating: 4.6
+Description: No description available.
+
+Type: golf
+Name: TelePort, мастерская по ремонту мобильных телефонов, компьютеров и электросамокатов
+Rating: 4.5
+Description: No description available.
+
+Type: golf
+Name: Technocom.kz, комиссионный магазин
+Rating: 4.5
+Description: No description available.
+
+Type: golf
+Name: GrandService.kz, сервисный центр по ремонту бытовой техники
+Rating: 5
+Description: No description available.
+
+Type: golf
+Name: Baby Land, магазин детских товаров
+Rating: 5
+Description: No description available.
+
+Type: golf
+Name: VeloMir, торговая компания
+Rating: 4.6
+Description: No description available.
+
+Type: golf
+Name: Gofit, магазин спортивного оборудования и тренажеров
+Rating: 5
+Description: No description available.
+
+Type: golf
+Name: ShaitanArba, магазин запчастей на велосипеды
+Rating: 4.9
+Description: No description available.
+
+Type: golf
+Name: Mashinki.kz, магазин детских электромобилей
+Rating: 4.4
+Description: No description available.
+
+Type: golf
+Name: Санаторий Алматы
+Rating: 5
+Description: No description available.
+
+Type: golf
+Name: Xiaomi.kz, интернет-магазин
+Rating: 4
+Description: No description available.
+
+Type: golf
+Name: Economad, центр по прокату и продаже электромотоциклов
+Rating: 5
+Description: No description available.
+
+Type: golf
+Name: 1service.kz, сервисный центр
+Rating: 3.8
+Description: No description available.
+
+Type: golf
+Name: sport.training.kz, магазин спортивных товаров
+Rating: 4.7
+Description: No description available.
+
+Type: golf
+Name: arplus phone, торгово-сервисный центр
+Rating: 4.2
+Description: No description available.
+
+Type: golf
+Name: Elon.Kz, компания
+Rating: 5
+Description: No description available.
+
+Type: golf
+Name: Panda-Shop, интернет-магазин
+Rating: 3.9
+Description: No description available.
+
+Type: golf
+Name: EcoWheels-EcoDrift, магазин электротранспорта
+Rating: 3.9
+Description: No description available.
+
+Type: golf
+Name: 1service.kz, сервисный центр
+Rating: 3.8
+Description: No description available.
+
+Type: golf
+Name: Ариал, футгольф
+Rating: 3.8
+Description: No description available.
+
+Type: golf
+Name: Nurtau, гольф-клуб
+Rating: 3.9
+Description: No description available.
+
+Type: golf
+Name: SMARTRENT, центр проката и сервиса мототехники
+Rating: 4.6
+Description: No description available.
+
+Type: golf
+Name: jsport.kz, магазин спортивных товаров
+Rating: 4.3
+Description: No description available.
+
+Type: golf
+Name: Gf sport, центр спортивного оборудования и инвентаря
+Rating: 3.3
+Description: No description available.
+
+Type: golf
+Name: Xiaomi Store, магазин
+Rating: 4.2
+Description: No description available.
+
+Type: golf
+Name: Premium motors, компания по доставке автомобилей из Кореи
+Rating: 5
+Description: No description available.
+
+Type: golf
+Name: Алма-Ата, торгово-развлекательный центр
+Rating: 3.3
+Description: No description available.
+
+Type: golf
+Name: Zhailjau, гольф-курорт
+Rating: 3.5
+Description: No description available.
+
+Type: golf
+Name: Кызыл-Ту, гольф-клуб
+Rating: 4
+Description: No description available.
+
+Type: golf
+Name: PlayWin, бильярдный клуб
+Rating: 3.3
+Description: No description available.
+
+Type: golf
+Name: 7sport.kz
+Rating: 3.2
+Description: No description available.
+
+Type: golf
+Name: Ящик пандоры, интернет-магазин товаров для страйкбола
+Rating: 3.3
+Description: No description available.
+
+Type: golf
+Name: Detskiymir_kz, интернет-магазин
+Rating: 5
+Description: No description available.
+
+Type: golf
+Name: BABYSHOP, интернет-магазин
+Rating: 5
+Description: No description available.
+
+Type: golf
+Name: Q-store, магазин
+Rating: 3.2
+Description: No description available.
+
+Type: golf
+Name: House Electronic, магазин
+Rating: 3.1
+Description: No description available.
+
+Type: golf
+Name: НиТЛ-А, торгово-сервисная компания
+Rating: 5
+Description: No description available.
+
+Type: golf
+Name: Technosklad, торговая компания
+Rating: 5
+Description: No description available.
+
+Type: museums
+Name: Музей народных музыкальных инструментов им. Ыхласа
+Rating: 4.7
+Description: No description available.
+
+Type: museums
+Name: Музей редких книг
+Rating: 5
+Description: No description available.
+
+Type: museums
+Name: Литературно-Мемориальный музейный комплекс С. Муканова и Г. Мусрепова
+Rating: 4.9
+Description: No description available.
+
+Type: museums
+Name: Музей Д.А. Кунаева
+Rating: 4.5
+Description: No description available.
+
+Type: museums
+Name: Музей Алматы
+Rating: 4.5
+Description: No description available.
+
+Type: museums
+Name: Lumiere-Hall, мультимедийный музей
+Rating: 4.4
+Description: No description available.
+
+Type: museums
+Name: Мемориальная квартира Д.А. Кунаева, музей
+Rating: 4.6
+Description: No description available.
+
+Type: museums
+Name: Музей археологии
+Rating: 4.4
+Description: No description available.
+
+Type: museums
+Name: Военно-исторический музей вооруженных сил РК
+Rating: 4.6
+Description: No description available.
+
+Type: museums
+Name: Государственный музей искусств им. А. Кастеева
+Rating: 4.2
+Description: No description available.
+
+Type: museums
+Name: Музей ретро-автомобилей, г. Капшагай
+Rating: 4.4
+Description: No description available.
+
+Type: museums
+Name: Центральный Государственный музей РК
+Rating: 4.2
+Description: No description available.
+
+Type: museums
+Name: Научно-культурный центр дом М.О. Ауэзова, музей
+Rating: 4.5
+Description: No description available.
+
+Type: museums
+Name: Музей истории Казахстанской науки
+Rating: 5
+Description: No description available.
+
+Type: museums
+Name: Дом-музей Ахмета Байтұрсынұлы
+Rating: 4.1
+Description: No description available.
+
+Type: museums
+Name: Дом-музей им. Абылхана Кастеева
+Rating: 4.6
+Description: No description available.
+
+Type: museums
+Name: Музей Национального банка Республики Казахстан
+Rating: 4.3
+Description: No description available.
+
+Type: museums
+Name: Центр сближения культур, государственный музей
+Rating: 4.4
+Description: No description available.
+
+Type: museums
+Name: Иссык, Государственный историко-культурный заповедник-музей министерства культуры и спорта РК
+Rating: 4.3
+Description: No description available.
+
+Type: museums
+Name: Alma Museum
+Rating: 4.5
+Description: No description available.
+
+Type: museums
+Name: Музей природы
+Rating: 3.7
+Description: No description available.
+
+Type: museums
+Name: Мультимедийный центр традиционной музыки
+Rating: 4
+Description: No description available.
+
+Type: museums
+Name: Алтын адам, музей
+Rating: 3.8
+Description: No description available.
+
+Type: museums
+Name: Мемориальный музей Нургисы Тлендиева
+Rating: 3.6
+Description: No description available.
+
+Type: museums
+Name: Республиканский музей спортивной и олимпийской славы
+Rating: 4
+Description: No description available.
+
+Type: museums
+Name: Историко-краеведческий музей Карасайского района, Историко-краеведческий музей Карасайского района
+Rating: 5
+Description: No description available.
+
+Type: museums
+Name: Центр по изучению наследия Ахмета и Газизы Жубановых, Центральный Государственный музей РК
+Rating: 5
+Description: No description available.
+
+Type: museums
+Name: Музей Казахского кино имени Ш. Айманова
+Rating: 2.5
+Description: No description available.
+
+Type: museums
+Name: АНАҒА ҚҰРМЕТ, музей
+Rating: 5
+Description: No description available.
+
+Type: museums
+Name: Музей памяти жертв политических репрессий
+Rating: 5
+Description: No description available.
+
+Type: museums
+Name: Батыр бабалар музейі, музей
+Rating: 1
+Description: No description available.
+
+Type: museums
+Name: Историко-культурный центр Атамекен Первого Президента Республики Казахстан
+Rating: 1
+Description: No description available.
+
+Type: museums
+Name: Мемориальный музей им. академика К.И. Сатпаева
+Rating: No raing availabe
+Description: No description available.
+
+Type: museums
+Name: Туздыбастау историко-краеведческий и этнологический музей
+Rating: No raing availabe
+Description: No description available.
+
+Type: night clubs
+Name: Protest, женская фитнес студия в стиле ночного клуба
+Rating: 4.3
+Description: Персональный тренер
+
+Type: night clubs
+Name: Skazka Bar, ночной клуб
+Rating: 4.2
+Description: Дресс-код, Фейсконтроль
+
+Type: night clubs
+Name: SE Night Club, ночной клуб
+Rating: 4.2
+Description: Фейсконтроль
+
+Type: night clubs
+Name: Barcode, ночной клуб
+Rating: 4
+Description: Дресс-код, Фейсконтроль, Стриптиз-программы
+
+Type: night clubs
+Name: Уят Емес, бар
+Rating: 4.1
+Description: Дресс-код, Фейсконтроль
+
+Type: night clubs
+Name: Bult, ночной клуб
+Rating: 4.2
+Description: No description available.
+
+Type: night clubs
+Name: Барвиха, ночной клуб
+Rating: 3.8
+Description: Дресс-код, Фейсконтроль
+
+Type: night clubs
+Name: Марио Диско 80, ночной клуб
+Rating: 4.3
+Description: No description available.
+
+Type: night clubs
+Name: Euphoria, ночной клуб
+Rating: 5
+Description: Дресс-код, Фейсконтроль
+
+Type: night clubs
+Name: О2, клуб-бар
+Rating: 3.7
+Description: Дресс-код, Фейсконтроль, Стриптиз-программы
+
+Type: night clubs
+Name: Eleven, караоке-бар
+Rating: 3.4
+Description: No description available.
+
+Type: night clubs
+Name: Tsunami black, ночной клуб
+Rating: 3.6
+Description: No description available.
+
+Type: night clubs
+Name: Жесть, рок-клуб
+Rating: 3.2
+Description: Дресс-код, Фейсконтроль, Стриптиз-программы
+
+Type: night clubs
+Name: Танцы Бар, Доступ по системе Ashyq
+Rating: 3.1
+Description: Дресс-код, Фейсконтроль
+
+Type: night clubs
+Name: TheXbar
+Rating: 3.2
+Description: Дресс-код, Фейсконтроль
+
+Type: night clubs
+Name: Retro Hit, ночной клуб
+Rating: 3.2
+Description: Дресс-код, Фейсконтроль, Стриптиз-программы
+
+Type: night clubs
+Name: Roxy, ночной клуб
+Rating: 3.2
+Description: Дресс-код, Фейсконтроль
+
+Type: night clubs
+Name: Focus bar, ночной клуб
+Rating: 3.9
+Description: Дресс-код, Фейсконтроль
+
+Type: night clubs
+Name: Red Room Bar, бар
+Rating: 2.9
+Description: Дресс-код, Фейсконтроль, Стриптиз-программы
+
+Type: night clubs
+Name: Barbara Night Club, ночной клуб-бар
+Rating: 3.1
+Description: No description available.
+
+Type: night clubs
+Name: Ganbei chinatown, бар
+Rating: 3.4
+Description: Дресс-код, Фейсконтроль
+
+Type: night clubs
+Name: Бочонок #1, бар
+Rating: 5
+Description: No description available.
+
+Type: night clubs
+Name: Lebis, ночной клуб
+Rating: 2.7
+Description: No description available.
+
+Type: night clubs
+Name: Nakatika, комплекс
+Rating: 2.5
+Description: Дресс-код, Фейсконтроль
+
+Type: night clubs
+Name: Friday, ночной клуб-бар
+Rating: 2.6
+Description: Дресс-код, Фейсконтроль
+
+Type: night clubs
+Name: Пионерская правда, ночной диско-клуб
+Rating: 2.4
+Description: Дресс-код, Фейсконтроль, Стриптиз-программы
+
+Type: night clubs
+Name: GOGOL, комплекс
+Rating: 3
+Description: Дресс-код, Фейсконтроль
+
+Type: night clubs
+Name: Bla bla bar, развлекательный комплекс
+Rating: 2.1
+Description: Дресс-код, Фейсконтроль
+
+Type: night clubs
+Name: Kitana bar, бар
+Rating: 5
+Description: Дресс-код, Фейсконтроль
+
+Type: night clubs
+Name: Disco Club, ночной диско-клуб
+Rating: 3
+Description: Фейсконтроль
+
+Type: night clubs
+Name: Pekin bar
+Rating: No raing availabe
+Description: Дресс-код, Фейсконтроль
+
+Type: parks
+Name: Satai Park Almaty, банкетный зал
+Rating: 5
+Description: До 200 человек
+
+Type: parks
+Name: Ботанический сад г. Алматы
+Rating: 4.1
+Description: No description available.
+
+Type: parks
+Name: Aspan Park, детский развлекательный центр
+Rating: 3.9
+Description: Детские праздники
+
+Type: parks
+Name: Парк Первого Президента Республики Казахстан
+Rating: 3.9
+Description: No description available.
+
+Type: parks
+Name: MEGA Park, торгово-развлекательный центр
+Rating: 3.9
+Description: No description available.
+
+Type: parks
+Name: Центральный Парк Отдыха г. Алматы
+Rating: 3.8
+Description: Детские площадки, Велодорожки, Батуты, Колесо обозрения
+
+Type: parks
+Name: Park View, бизнес-центр
+Rating: 3.9
+Description: No description available.
+
+Type: parks
+Name: Kazzhol Park Almaty, гостиница
+Rating: 3.9
+Description: 4 звезды, Завтрак, Прачечная
+
+Type: parks
+Name: Алматинский зоопарк
+Rating: 3.7
+Description: No description available.
+
+Type: parks
+Name: Park Hotel Almaty, отель
+Rating: 3.8
+Description: Проживание от 47000 тнг., Завтрак
+
+Type: parks
+Name: Grand Park, торгово-развлекательный комплекс
+Rating: 3.4
+Description: No description available.
+
+Type: parks
+Name: Grand Park, торгово-развлекательный комплекс
+Rating: 3.4
+Description: No description available.
+
+Type: parks
+Name: Asia Park, торгово-развлекательный центр
+Rating: 3.3
+Description: No description available.
+
+Type: parks
+Name: Family Park, Парк аттракционов
+Rating: 3
+Description: Детские площадки, Американские горки, Батуты, Колесо обозрения, Картинг
+
+Type: parks
+Name: Кок-Тобе, парк отдыха
+Rating: 3.2
+Description: Детские площадки, Американские горки, Колесо обозрения
+
+Type: parks
+Name: Fantasy World Almaty, парк развлечений
+Rating: 3
+Description: Детские площадки, Американские горки, Колесо обозрения
+
+Type: parks
+Name: Alem Park, парк семейного отдыха
+Rating: 2.9
+Description: No description available.
+
+Type: parks
+Name: Family Park, Картинг
+Rating: 3
+Description: No description available.
+
+Type: parks
+Name: Сосновый Бор, экопарк
+Rating: 4
+Description: Детские площадки
+
+Type: parks
+Name: Клевое озеро, рыболовный центр
+Rating: 5
+Description: No description available.
+
+Type: sport
+Name: Академия Гибкости, сеть женских студий растяжки и фитнеса
+Rating: 4.1
+Description: Персональный тренер
+
+Type: sport
+Name: MMdance, центр творчества
+Rating: 5
+Description: No description available.
+
+Type: sport
+Name: Golden Eagle Fitness, фитнес-клуб
+Rating: 4.9
+Description: Месячный абонемент от 23000 тнг.
+
+Type: sport
+Name: Академия Гибкости, сеть женских студий растяжки и фитнеса
+Rating: 4.1
+Description: Персональный тренер
+
+Type: sport
+Name: Republic, физкультурно-оздоровительный комплекс
+Rating: 4.9
+Description: Месячный абонемент от 13000 тнг., Персональный тренер
+
+Type: sport
+Name: Спарта, спортивно-тактический клуб
+Rating: 5
+Description: No description available.
+
+Type: sport
+Name: Roller, школа бразильского джиу-джитсу
+Rating: 4.9
+Description: No description available.
+
+Type: sport
+Name: Sportmax, тренажерный зал
+Rating: 5
+Description: Месячный абонемент от 7000 тнг., Персональный тренер
+
+Type: sport
+Name: FC Result, бойцовский клуб
+Rating: 5
+Description: No description available.
+
+Type: sport
+Name: Exo.Dom pole dance, студия танца на пилоне
+Rating: 5
+Description: Персональный тренер
+
+Type: sport
+Name: БАНЗАЙ Fitness, сеть фитнес-клубов
+Rating: 4.6
+Description: Месячный абонемент от 11000 тнг., Персональный тренер, Сауны
+
+Type: sport
+Name: Sport Line Z, клуб
+Rating: 4.9
+Description: Персональный тренер
+
+Type: sport
+Name: Лотос, клуб боевых искусств
+Rating: 5
+Description: No description available.
+
+Type: sport
+Name: Balance, студия стретчинга и йоги
+Rating: 4.8
+Description: Персональный тренер
+
+Type: sport
+Name: Slava, студия функциональных тренировок
+Rating: 5
+Description: Месячный абонемент от 14000 тнг., Персональный тренер
+
+Type: sport
+Name: Академия Гибкости, сеть женских студий растяжки и фитнеса
+Rating: 4.1
+Description: Персональный тренер
+
+Type: sport
+Name: Bolashaq School, образовательный центр
+Rating: 5
+Description: No description available.
+
+Type: sport
+Name: Sal-Seri, конный клуб
+Rating: 5
+Description: No description available.
+
+Type: sport
+Name: Balance, студия стретчинга и йоги
+Rating: 4.8
+Description: No description available.
+
+Type: sport
+Name: БАНЗАЙ Fitness, сеть фитнес-клубов
+Rating: 4.6
+Description: Месячный абонемент от 13000 тнг., Персональный тренер
+
+Type: sport
+Name: Aquastars, плавательные клубы
+Rating: 4.2
+Description: No description available.
+
+Type: sport
+Name: БАНЗАЙ Fitness, сеть фитнес-клубов
+Rating: 4.6
+Description: Месячный абонемент от 13000 тнг., Персональный тренер
+
+Type: sport
+Name: Qazaq Style Boxing Club, боксерский клуб
+Rating: 5
+Description: No description available.
+
+Type: sport
+Name: Projumping Fitness, студия фитнеса
+Rating: 4.9
+Description: Персональный тренер
+
+Type: sport
+Name: Imannur, центр образования, творчества и спорта
+Rating: 5
+Description: No description available.
+
+Type: sport
+Name: Бала Батыр, школа дзюдо
+Rating: 4.9
+Description: No description available.
+
+Type: sport
+Name: Stretching Almaty
+Rating: 4.9
+Description: Персональный тренер
+
+Type: sport
+Name: Prostretching, женская фитнес-студия
+Rating: 4.7
+Description: Персональный тренер
+
+Type: sport
+Name: Grace, школа гимнастики
+Rating: 4.9
+Description: No description available.
+
+Type: sport
+Name: AlaQai Study, образовательный центр
+Rating: 4.9
+Description: No description available.
+
+Type: sport
+Name: БАНЗАЙ Fitness, сеть фитнес-клубов
+Rating: 4.6
+Description: Месячный абонемент от 10000 тнг., Персональный тренер
+
+Type: sport
+Name: Flim Flam, клуб настольного тенниса
+Rating: 4.8
+Description: No description available.
+
+Type: sport
+Name: Kamila Kim Studio
+Rating: 4.8
+Description: Персональный тренер
+
+Type: sport
+Name: Beysekeev Team, бойцовский клуб
+Rating: 5
+Description: No description available.
+
+Type: sport
+Name: Казахстанская Шахматная Школа, детский шахматный клуб
+Rating: 4.9
+Description: No description available.
+
+Type: sport
+Name: Atmosfera, студия растяжки и фитнеса
+Rating: 4.9
+Description: Персональный тренер
+
+Type: sport
+Name: Salvare La Vita, женский фитнес-клуб
+Rating: 4.7
+Description: No description available.
+
+Type: sport
+Name: Shatranj, профессиональная шахматная школа
+Rating: 5
+Description: No description available.
+
+Type: sport
+Name: ART GRAVITY, студия альфа-гравити, йоги и стретчинга
+Rating: 4.9
+Description: Персональный тренер
+
+Type: sport
+Name: Ф.К. Jeyran, сеть футбольных школ
+Rating: 4.5
+Description: No description available.
+
+Type: sport
+Name: TTandPSclub, игровой клуб
+Rating: 4.8
+Description: No description available.
+
+Type: sport
+Name: Ippon, сеть клубов дзюдо
+Rating: 4.8
+Description: No description available.
+
+Type: sport
+Name: Казахстанская Шахматная Школа, детский шахматный клуб
+Rating: 4.9
+Description: No description available.
+
+Type: sport
+Name: Kinesis Gym, оздоровительный центр
+Rating: 5
+Description: Месячный абонемент от 20000 тнг., Персональный тренер
+
+Type: sport
+Name: Qazaq MA Boxing, боксерский клуб
+Rating: 5
+Description: No description available.
+
+Type: sport
+Name: Underground Jumping Fitness, студия
+Rating: 5
+Description: Персональный тренер
+
+Type: sport
+Name: Казахстанская Шахматная Школа, детский шахматный клуб
+Rating: 4.9
+Description: No description available.
+
+Type: sport
+Name: Dojo Ali Ali, школа боевых искусств
+Rating: 5
+Description: No description available.
+
+Type: sport
+Name: Samurai academy, клуб бразильского джиу-джитсу и грэпплинга
+Rating: 4.9
+Description: No description available.
+
+Type: sport
+Name: CheckMat Kazakhstan Jiu-Jitsu & Grappling, спортивный клуб
+Rating: 4.7
+Description: No description available.
+
+
+Type: theatre
+Name: Казахский Национальный театр оперы и балета им. Абая
+Rating: 4.8
+Description: No description available.
+
+Type: theatre
+Name: Жас Сахна, театр
+Rating: 4.8
+Description: No description available.
+
+Type: theatre
+Name: Театр ЛТЕ
+Rating: 4.9
+Description: No description available.
+
+Type: theatre
+Name: Государственный Республиканский корейский театр музыкальной комедии
+Rating: 4.8
+Description: No description available.
+
+Type: theatre
+Name: Тотальный театр
+Rating: 4.6
+Description: No description available.
+
+Type: theatre
+Name: Театр драмы им. М. Лермонтова
+Rating: 4.5
+Description: No description available.
+
+Type: theatre
+Name: Театр детей и юношества им. Г. Мусрепова
+Rating: 4.3
+Description: No description available.
+
+Type: theatre
+Name: Театр драмы им. Мухтара Ауэзова
+Rating: 4.3
+Description: No description available.
+
+Type: theatre
+Name: Арт-убежище BUNKER, театр
+Rating: 4.4
+Description: No description available.
+
+Type: theatre
+Name: Республиканский академический немецкий драматический театр
+Rating: 4.4
+Description: No description available.
+
+Type: theatre
+Name: ARTиШОК, Малая сцена
+Rating: 4.3
+Description: No description available.
+
+Type: theatre
+Name: Государственный театр кукол
+Rating: 4.1
+Description: No description available.
+
+Type: theatre
+Name: ARTиШОК, Большая сцена
+Rating: 4.3
+Description: No description available.
+
+Type: theatre
+Name: Almaty Theatre
+Rating: 4
+Description: No description available.
+
+Type: theatre
+Name: Сцена, театр и студия актерского мастерства
+Rating: 4.3
+Description: No description available.
+
+Type: theatre
+Name: Керемет, театр
+Rating: 5
+Description: No description available.
+
+Type: theatre
+Name: Трансформа, выездной театр
+Rating: 4.5
+Description: No description available.
+
+Type: theatre
+Name: Театр для детей и юношества им. Н. Сац
+Rating: 3.7
+Description: No description available.
+
+Type: theatre
+Name: Республиканский Государственный Академический уйгурский театр музыкальной комедии им. К. Кужамьярова
+Rating: 3.9
+Description: No description available.
+
+Type: theatre
+Name: Государственный академический театр танца
+Rating: 4.4
+Description: No description available.
+
+Type: theatre
+Name: Конкордия, студенческий театр
+Rating: 3.5
+Description: No description available.
+
+Type: theatre
+Name: Interius, театр
+Rating: 3.8
+Description: No description available.
+
+Type: theatre
+Name: Бата, театр
+Rating: 5
+Description: No description available.
+
+Type: theatre
+Name: Зазеркалье, кукольный театр
+Rating: 4
+Description: No description available.
+
+Type: theatre
+Name: Алатау, театр традиционного искусства
+Rating: 3.2
+Description: No description available.
+
+Type: theatre
+Name: 2act, театр
+Rating: 5
+Description: No description available.
+
+Type: theatre
+Name: Сезам, театр кукол
+Rating: 3.3
+Description: No description available.
+
+Type: theatre
+Name: Immersive
+Rating: No raing availabe
+Description: No description available.
+
+Type: zoos
+Name: Best exotic animals, зоопарк
+Rating: 4.7
+Description: No description available.
+
+Type: zoos
+Name: Ноев Ковчег, мини-зоопарк
+Rating: 3.4
+Description: No description available.
+
+Type: zoos
+Name: Алматинский зоопарк
+Rating: 3.7
+Description: No description available.
+
+Type: zoos
+Name: Ноев Ковчег, мини-зоопарк
+Rating: 3.4
+Description: No description available.
+
+Type: restaraunts
+Name: Olovo cocktail bar, бар
+Rating: 4.7
+Description: Средний чек 7000 тнг., Паназиатская кухня, Европейская кухня, Пицца, Бургеры, Рамен, Стейки, Том-Ям, Фо-бо, Салаты, Супы, Куриные крылышки, Мидии, Жареная рыба
+
+Type: restaraunts
+Name: Chaihana NAVAT, ресторан
+Rating: 4.6
+Description: Средний чек 3000 тнг., Восточная кухня, Европейская кухня, Шашлык, Стейки, Доставка
+
+Type: restaraunts
+Name: Bao sushi & noodles bar, ресторан
+Rating: 4.5
+Description: Средний чек 5000 тнг., Азиатская кухня, Японская кухня, Тайская кухня, Суши, Пицца, Лапша wok, Рис wok, Поке, Том-Ям, Лагман, Салаты, Супы, Наггетсы, Боулы, Кукси, Кофе с собой, Доставка
+
+Type: restaraunts
+Name: Винокурня by Ata, винный бар
+Rating: 4.8
+Description: Средний чек 7000 тнг., Бизнес-ланч от 2000 тнг., Авторская кухня, Пицца, Бургеры, Пицца на дровах, Пита, Блюда на гриле, Жареная рыба, Кофе с собой
+
+Type: restaraunts
+Name: Chaihana NAVAT, ресторан
+Rating: 4.6
+Description: Доставка
+
+Type: restaraunts
+Name: Breakfast Bar, кафе
+Rating: 4.7
+Description: Средний чек 7500 тнг., Русская кухня, Европейская кухня, Авторская кухня, Том-Ям, Салаты, Супы, Наггетсы, Начос, Боулы, Колбаски, Кофе с собой, Доставка
+
+Type: restaraunts
+Name: Виновники, ресторан
+Rating: 4.9
+Description: Средний чек 12000 тнг.
+
+Type: restaraunts
+Name: Hogo Bossqazan, ресторан
+Rating: 4.7
+Description: Средний чек 5000 тнг., Китайская кухня, Узбекская кухня, Корейская кухня, Шашлык, Пельмени, Рамен, Манты, Люля-кебаб, Лагман, Салаты, Супы, Куриные крылышки, Плов, Кукси, Жареная рыба
+
+Type: restaraunts
+Name: Bao sushi & noodles bar, ресторан
+Rating: 4.5
+Description: Средний чек 5000 тнг., Вьетнамская кухня, Японская кухня, Веганская кухня, Суши, Лапша wok, Рамен, Рис wok, Салаты, Супы, Доставка
+
+Type: restaraunts
+Name: PRESSO, семейный ресторан
+Rating: 4.7
+Description: Средний чек 7000 тнг., Бизнес-ланч от 4500 тнг., Итальянская кухня, Азиатская кухня, Тайская кухня, Европейская кухня, Пицца, Бургеры, Лапша wok, Пельмени, Поке, Стейки, Том-Ям, Блюда на гриле, Наггетсы, Боулы, Кофе с собой, Доставка
+
+Type: restaraunts
+Name: Chaihana NAVAT, ресторан
+Rating: 4.6
+Description: Средний чек 3500 тнг., Узбекская кухня, Восточная кухня, Русская кухня, Европейская кухня, Казахская кухня, Шашлык, Плов, Кофе с собой, Доставка
+
+Type: restaraunts
+Name: Пугасов, комплекс
+Rating: 4.7
+Description: Средний чек 7000 тнг., Грузинская кухня, Кавказская кухня, Европейская кухня, Пицца, Шашлык, Бургеры, Хинкали, Пельмени, Манты, Стейки, Люля-кебаб, Салаты, Хачапури, Супы, Блюда на гриле, Куриные крылышки, Наггетсы, Плов, Кофе с собой, Доставка
+
+Type: restaraunts
+Name: Chaihana NAVAT, ресторан
+Rating: 4.6
+Description: Узбекская кухня, Восточная кухня, Кавказская кухня, Русская кухня, Уйгурская кухня, Европейская кухня, Казахская кухня, Кыргызская кухня, Шашлык, Лагман, Плов, Кофе с собой, Доставка
+
+Type: restaraunts
+Name: Rifugio del Monte
+Rating: 4.9
+Description: Средний чек 15000 тнг., Европейская кухня, Средиземноморская кухня, Рыбная кухня, Стейки, Салаты, Супы, Блюда на гриле, Колбаски, Мидии, Жареная рыба, Устрицы, Кофе с собой
+
+Type: restaraunts
+Name: RUMI, центр вкусного плова
+Rating: 4.1
+Description: Средний чек 7000 тнг., Восточная кухня, Азиатская кухня, Европейская кухня, Пицца, Пельмени, Рамен, Манты, Стейки, Том-Ям, Лагман, Салаты, Вареники, Супы, Куриные крылышки, Наггетсы, Плов, Кофе с собой, Доставка
+
+Type: restaraunts
+Name: Рис, ресторан
+Rating: 4.3
+Description: Средний чек 6000 тнг., Итальянская кухня, Восточная кухня, Корейская кухня, Японская кухня, Паназиатская кухня, Европейская кухня, Рыбная кухня, Суши, Лапша wok, Пельмени, Рамен, Рис wok, Поке, Стейки, Том-Ям, Лагман, Супы, Блюда на гриле, Куриные крылышки, Наггетсы, Боулы, Кукси, Жареная рыба, Кофе с собой, Доставка
+
+Type: restaraunts
+Name: Le Four, ресторан авторской кухни
+Rating: 5
+Description: Средний чек 9000 тнг., Доставка
+
+Type: restaraunts
+Name: Ololo, лаундж-бар
+Rating: 5
+Description: Средний чек 5000 тнг., Итальянская кухня, Кавказская кухня, Европейская кухня, Суши, Пицца, Шашлык, Бургеры, Лапша wok, Пельмени, Рамен, Стейки, Том-Ям, Люля-кебаб, Салаты, Хачапури, Супы, Блюда на гриле, Куриные крылышки, Наггетсы, Плов, Кесадилья, Боулы, Колбаски, Жареная рыба, Кофе с собой
+
+Type: restaraunts
+Name: Алтын Ел, ресторанный комплекс
+Rating: 4.8
+Description: Кавказская кухня, Европейская кухня, Казахская кухня, Плов
+
+Type: restaraunts
+Name: Поэзия, ресторан
+Rating: 4.7
+Description: Средний чек 8000 тнг., Восточная кухня, Европейская кухня, Казахская кухня
+
+Type: restaraunts
+Name: Хан Тәңірі, банкетный зал
+Rating: 4.8
+Description: No description available.
+
+Type: restaraunts
+Name: Victory Mexican and Wild, бар
+Rating: 4.6
+Description: Средний чек 7000 тнг., Мексиканская кухня, Европейская кухня, Американская кухня, Стейки, Салаты, Супы, Блюда на гриле, Буррито, Начос, Кесадилья, Колбаски
+
+Type: restaraunts
+Name: Vinoteca MEGA, винотека
+Rating: 4.8
+Description: Итальянская кухня, Европейская кухня, Доставка
+
+Type: restaraunts
+Name: Meat & Fire BBQ, ресторан
+Rating: 4.6
+Description: No description available.
+
+Type: restaraunts
+Name: Саксаул, ресторан
+Rating: 4.6
+Description: Средний чек 5000 тнг., Узбекская кухня, Восточная кухня, Казахская кухня, Пицца, Шашлык, Пельмени, Манты, Стейки, Люля-кебаб, Лагман, Хачапури, Супы, Наггетсы, Плов, Колбаски, Доставка
+
+Type: restaraunts
+Name: Бочонок, ресто-бар
+Rating: 4.5
+Description: Средний чек 7000 тнг., Европейская кухня, Немецкая кухня, Шашлык, Бургеры, Стейки, Блюда на гриле, Колбаски, Кофе с собой, Доставка
+
+Type: restaraunts
+Name: The Churchill Bar, ресто-бар
+Rating: 4.8
+Description: Итальянская кухня, Восточная кухня, Европейская кухня, Пицца, Бургеры, Стейки, Супы
+
+Type: restaraunts
+Name: Percorso, ресторан
+Rating: 4.7
+Description: Средний чек 8000 тнг., Итальянская кухня, Пицца, Кофе с собой
+
+Type: restaraunts
+Name: The Shakespeare Pub, паб
+Rating: 4.7
+Description: Средний чек 8000 тнг., Индийская кухня, Европейская кухня, Пицца, Бургеры, Стейки, Супы, Куриные крылышки, Жареная рыба, Доставка
+
+Type: restaraunts
+Name: Антрекот, ресторан
+Rating: 4.6
+Description: Средний чек 13000 тнг., Бизнес-ланч от 3500 тнг., Европейская кухня, Пицца, Шашлык, Бургеры, Стейки, Блюда на гриле, Кофе с собой, Доставка
+
+Type: restaraunts
+Name: Bao sushi & noodles bar, ресторан
+Rating: 4.5
+Description: Средний чек 5000 тнг., Паназиатская кухня, Веганская кухня, Суши, Лапша wok, Рамен, Рис wok, Том-Ям, Салаты, Супы, Доставка
+
+Type: restaraunts
+Name: Mamma Mia, семейный ресторан
+Rating: 4.5
+Description: Средний чек 4500 тнг., Итальянская кухня, Пицца, Кофе с собой, Доставка
+
+Type: restaraunts
+Name: Ocean Basket, ресторан морепродуктов
+Rating: 4.6
+Description: Средний чек 7500 тнг., Средиземноморская кухня, Суши, Том-Ям, Блюда на гриле, Жареная рыба, Доставка
+
+Type: restaraunts
+Name: Mura national kitchen and wine, ресторан
+Rating: 4.6
+Description: Средний чек 5000 тнг., Бизнес-ланч от 2500 тнг., Восточная кухня, Европейская кухня, Казахская кухня, Манты, Стейки, Куриные крылышки, Плов, Колбаски, Кофе с собой
+
+Type: restaraunts
+Name: Terrace 77, ресторан
+Rating: 5
+Description: Средний чек 12000 тнг., Европейская кухня, Бургеры
+
+Type: restaraunts
+Name: The River, ресторан
+Rating: 5
+Description: Европейская кухня
+
+Type: restaraunts
+Name: RUMI, центр вкусного плова
+Rating: 4.1
+Description: Средний чек 7000 тнг., Бизнес-ланч от 2000 тнг., Узбекская кухня, Восточная кухня, Домашняя кухня, Казахская кухня, Шашлык, Пельмени, Рамен, Манты, Том-Ям, Лагман, Салаты, Вареники, Супы, Куриные крылышки, Наггетсы, Плов, Кофе с собой, Доставка
+
+Type: restaraunts
+Name: Baqyt Grand Hall, ресторан
+Rating: 4.7
+Description: No description available.
+
+Type: restaraunts
+Name: Кишлак, ресторан
+Rating: 4.6
+Description: Средний чек 6000 тнг., Бизнес-ланч от 2990 тнг., Восточная кухня, Европейская кухня, Казахская кухня, Шашлык, Пельмени, Манты, Стейки, Люля-кебаб, Лагман, Салаты, Хачапури, Супы, Куриные крылышки, Наггетсы, Плов, Жареная рыба, Доставка
+
+Type: restaraunts
+Name: Ocean Basket, ресторан морепродуктов
+Rating: 4.6
+Description: Средний чек 7500 тнг., Средиземноморская кухня, Суши, Доставка
+
+Type: restaraunts
+Name: Japona Sushi, ресторан
+Rating: 4.6
+Description: Средний чек 5000 тнг., Бизнес-ланч от 3490 тнг., Японская кухня, Халяльная кухня, Европейская кухня, Суши, Пицца, Рамен, Том-Ям, Салаты, Супы, Наггетсы, Кукси, Мидии, Жареная рыба, Устрицы, Кофе с собой, Доставка
+
+Type: restaraunts
+Name: Yakuza sushi & panasian kitchen
+Rating: 4.6
+Description: Средний чек 4500 тнг., Азиатская кухня, Японская кухня, Паназиатская кухня, Тайская кухня, Европейская кухня
+
+Type: restaraunts
+Name: Mamma Mia, семейный ресторан
+Rating: 4.5
+Description: Средний чек 5000 тнг., Итальянская кухня, Пицца
+
+Type: restaraunts
+Name: Bao sushi & noodles bar, ресторан
+Rating: 4.5
+Description: Средний чек 5000 тнг., Японская кухня, Паназиатская кухня, Суши, Доставка
+
+Type: restaraunts
+Name: Vinci, ресто-бар
+Rating: 4.8
+Description: Средний чек 7000 тнг., Бизнес-ланч от 2799 тнг., Японская кухня, Европейская кухня, Авторская кухня, Пицца, Рамен, Стейки, Салаты, Супы, Блюда на гриле, Куриные крылышки, Начос, Колбаски, Гёдза, Мидии, Жареная рыба, Кофе с собой, Доставка
+
+Type: restaraunts
+Name: Ocean Basket, ресторан морепродуктов
+Rating: 4.6
+Description: Средний чек 7500 тнг., Средиземноморская кухня, Суши, Том-Ям, Салаты, Супы, Блюда на гриле, Кофе с собой, Доставка
+
+Type: restaraunts
+Name: Tal Cafe & Restaurant, ресторан
+Rating: 4.5
+Description: Средний чек 5000 тнг., Узбекская кухня, Азиатская кухня, Пицца, Шашлык, Бургеры, Лапша wok, Пельмени, Рис wok, Манты, Стейки, Люля-кебаб, Лагман, Салаты, Вареники, Супы, Блюда на гриле, Куриные крылышки, Наггетсы, Плов, Жареная рыба, Кофе с собой
+
+Type: restaraunts
+Name: Мята Platinum 4YOU, ресто-бар
+Rating: 4.5
+Description: Итальянская кухня, Европейская кухня, Пицца, Бургеры, Лапша wok, Рамен, Стейки, Том-Ям, Супы, Наггетсы, Кесадилья, Колбаски, Жареная рыба, Кофе с собой
+
+Type: restaraunts
+Name: Mamma Mia, семейный ресторан
+Rating: 4.5
+Description: Средний чек 5000 тнг., Итальянская кухня, Пицца, Закрытая пицца, Кофе с собой, Доставка
+
+Type: restaraunts
+Name: Hamster Pub
+Rating: 4.7
+Description: Бизнес-ланч от 1200 тнг., Европейская кухня, Пицца, Шашлык, Бургеры, Пельмени, Рис wok, Стейки, Том-Ям, Супы, Начос, Кесадилья, Колбаски, Кофе с собой, Доставка
+
