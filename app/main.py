@@ -24,7 +24,8 @@ origins = [
     "http://localhost:8080",
     "http://localhost:3000",
     "https://my-first-ai-project-ashen.vercel.app",
-    "https://dateassistant.vercel.app"
+    "https://dateassistant.vercel.app",
+    "https://wedate.vercel.app"
 ]
 
 app.add_middleware(
